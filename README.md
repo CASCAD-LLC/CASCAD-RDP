@@ -47,6 +47,7 @@ CASCAD RDP (CASCAD Remote Desktop Project) - программа для удал�
 
 
 Вводим всё как показано ниже:
+
 ![Запись-2025-06-02-104347](https://github.com/user-attachments/assets/32b4afc4-97ba-4045-ab08-c2f12681fca7)
 
 
